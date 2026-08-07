@@ -1,0 +1,44 @@
+{
+    "bag": [
+        {
+            "de": "Wasser",
+            "en": "Water"
+        },
+        {
+            "de": "Klugenschreiber",
+            "en": "Pen"
+        },
+        {
+            "de": "Stuhl",
+            "en": "Chair"
+        },
+        {
+            "de": "tisch",
+            "en": "desk"
+        },
+        {
+            "de": "Notizbuch",
+            "en": "Notebook"
+        },
+        {
+            "de": "Stein",
+            "en": "Stone"
+        },
+        {
+            "de": "Schussel",
+            "en": "Bowl"
+        },
+        {
+            "de": "Pflanze",
+            "en": "Plant"
+        },
+        {
+            "de": "Draht",
+            "en": "Wire"
+        },
+        {
+            "de": "Flasche",
+            "en": "Bottle"
+        }
+    ]
+}
